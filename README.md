@@ -6,7 +6,7 @@ El joc de dades fet servir es pot consultar a [Kaggle](https://www.kaggle.com/da
 
 Consisteix en un joc de dades que conté tots els accidents de tràfic de Barcelona classificats per districte, barri, data, etc. Jo personalment he agafat un subconjunt de districtes per a facilitar la visualització de dades i seguir traient conclusions interessants. El subconjunt és: "Ciutat Vella", "Eixample", "Gràcia", "Les Corts" i "Sarrià-Sant Gervasi".
 
-![Stacked Bar Chart](https://github.com/joangt98/joangt98.github.io/blob/main/stacked_bar.png)
+![Stacked Bar Chart](./stacked_bar.png)
 
 ## Candlestick Chart
 
