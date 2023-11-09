@@ -18,6 +18,8 @@ Aquest joc de dades està preparat per a fer anàlisi de "trading" i ve classifi
 
 ![Candlestick Chart (Zoom)](./candlestick2.png)
 
+![Candlestick Chart (No Zoom)](./candlestick3.png)
+
 ## Marimekko Chart
 
 El joc de dades fet servir es pot consultar a [Kaggle](https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb).
